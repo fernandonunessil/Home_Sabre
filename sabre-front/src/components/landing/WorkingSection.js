@@ -22,15 +22,14 @@ export default function WorkingSection() {
                         icon="fingerprint"
                         title="Indentidade"
                     >
-                        Tenha um site com identidade, algo unico, apenas vc vai ter um site unico, com textos e design só seus, tudo sob medida
+                        Tenha um site com identidade, algo unico, apenas vc vai ter um site com um design unico, com textos e design só seus, tudo sob medida
                     </StatusCard>
                     <StatusCard
                         color="teal"
-                        icon="fingerprint"
-                        title="Verified Company"
+                        icon="speed"
+                        title="Hospedagem"
                     >
-                        Write a few lines about each one. A paragraph describing
-                        a feature will be enough. Keep you user engaged!
+                        Usamos as melhores hospedagens do Mercado, para manter seu site funcionando 24 horas por dia, e sempre com uma velocidade instantanea !
                     </StatusCard>
                 </div>
 
@@ -39,36 +38,24 @@ export default function WorkingSection() {
                         <div className="text-blue-gray-800 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
                             <Icon name="people" size="3xl" />
                         </div>
-                        <H4 color="gray">Working with us is a pleasure</H4>
+                        <H4 color="gray">Clientes em todo o mundo</H4>
                         <LeadText color="blueGray">
-                            Don't let your uses guess by attaching tooltips and
-                            popoves to any element. Just make sure you enable
-                            them first via JavaScript.
+                            Trabalhamos com clientes de todo o mundo, cada cliente com um site unico, criado apenas para ele, 
+                            garantimos que a qualidade seja maior do que o cliente espera.
                         </LeadText>
                         <LeadText color="blueGray">
-                            The kit comes with three pre-built pages to help you
-                            get started faster. You can change the text and
-                            images and you're good to go. Just make sure you
-                            enable them first via JavaScript.
+                            Temos um time de design, responsavel por mostrar aos nossos programadores como deve ser o rosto do seu site, e como ele deve ser unico e rapido, um site da SabreCyber, é capaz de presuadir qualquer cliente, para qualquer segmento do mercado, apenas nos de as informações e veja a magica acontecer
                         </LeadText>
-                        <a
-                            href="#pablo"
-                            className="font-medium text-light-blue-500 mt-2 inline-block"
-                        >
-                            Read More
-                        </a>
                     </div>
 
                     <div className="w-full md:w-4/12 px-4 mx-auto flex justify-center mt-24 lg:mt-0">
                         <Card>
-                            <CardImage alt="Card Image" src={Teamwork} />
+                            <CardImage alt="CardImage" src={Teamwork} />
                             <CardBody>
-                                <H6 color="gray">Top Notch Services</H6>
+                                <H6 color="gray">Por que a SabreCyber ?</H6>
                                 <Paragraph color="blueGray">
-                                    The Arctic Ocean freezes every winter and
-                                    much of the sea-ice then thaws every summer,
-                                    and that process will continue whatever
-                                    happens.
+                                    Nossa empresa, preza por manter um ambiente de trabalho confortavel, e quer um melhor do que o lugar que o colaborador preferir ? 
+                                    Sim, por isso, nossos designers e desenvolvedores, trabalham de qualquer lugar do mundo, por isso temos eles sempre dedicados e entusiasmados para um proximo desafio, que é criar um site com identidade
                                 </Paragraph>
                             </CardBody>
                         </Card>
