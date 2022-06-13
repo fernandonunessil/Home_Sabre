@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/material-tailwind-kit-react/static/css/main.09fd703d.chunk.css",
+    "main.js": "/material-tailwind-kit-react/static/js/main.deb313e6.chunk.js",
+    "main.js.map": "/material-tailwind-kit-react/static/js/main.deb313e6.chunk.js.map",
+    "runtime-main.js": "/material-tailwind-kit-react/static/js/runtime-main.3dd36839.js",
+    "runtime-main.js.map": "/material-tailwind-kit-react/static/js/runtime-main.3dd36839.js.map",
+    "static/css/2.581c4118.chunk.css": "/material-tailwind-kit-react/static/css/2.581c4118.chunk.css",
+    "static/js/2.aca8507f.chunk.js": "/material-tailwind-kit-react/static/js/2.aca8507f.chunk.js",
+    "static/js/2.aca8507f.chunk.js.map": "/material-tailwind-kit-react/static/js/2.aca8507f.chunk.js.map",
+    "static/js/3.c80a6eb6.chunk.js": "/material-tailwind-kit-react/static/js/3.c80a6eb6.chunk.js",
+    "static/js/3.c80a6eb6.chunk.js.map": "/material-tailwind-kit-react/static/js/3.c80a6eb6.chunk.js.map",
+    "index.html": "/material-tailwind-kit-react/index.html",
+    "static/css/2.581c4118.chunk.css.map": "/material-tailwind-kit-react/static/css/2.581c4118.chunk.css.map",
+    "static/css/main.09fd703d.chunk.css.map": "/material-tailwind-kit-react/static/css/main.09fd703d.chunk.css.map",
+    "static/js/2.aca8507f.chunk.js.LICENSE.txt": "/material-tailwind-kit-react/static/js/2.aca8507f.chunk.js.LICENSE.txt",
+    "static/media/SabreCyber.3ab175ae.png": "/material-tailwind-kit-react/static/media/SabreCyber.3ab175ae.png",
+    "static/media/tailwind.css": "/material-tailwind-kit-react/static/media/background-1920x1280.20a2d875.jpg",
+    "static/media/all.min.css": "/material-tailwind-kit-react/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/teamwork.217c0d67.jpeg": "/material-tailwind-kit-react/static/media/teamwork.217c0d67.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd36839.js",
+    "static/css/2.581c4118.chunk.css",
+    "static/js/2.aca8507f.chunk.js",
+    "static/css/main.09fd703d.chunk.css",
+    "static/js/main.deb313e6.chunk.js"
+  ]
+}

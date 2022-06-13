@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
 import Navbar from "@material-tailwind/react/Navbar";
 import NavbarContainer from "@material-tailwind/react/NavbarContainer";
 import NavbarWrapper from "@material-tailwind/react/NavbarWrapper";
@@ -8,10 +7,7 @@ import NavbarToggler from "@material-tailwind/react/NavbarToggler";
 import NavbarCollapse from "@material-tailwind/react/NavbarCollapse";
 import Nav from "@material-tailwind/react/Nav";
 import NavLink from "@material-tailwind/react/NavLink";
-import Dropdown from "@material-tailwind/react/Dropdown";
-import DropdownItem from "@material-tailwind/react/DropdownItem";
 import Icon from "@material-tailwind/react/Icon";
-import Button from "@material-tailwind/react/Button";
 import logo from "../assets/img/SabreCyber.png";
 
 export default function DefaultNavbar() {
@@ -80,7 +76,7 @@ export default function DefaultNavbar() {
                 </Dropdown> */}
               </div>
               <NavLink
-                href="https://github.com/creativetimofficial/material-tailwind?ref=mtk"
+                href="https://api.whatsapp.com/send?phone=54992041970&text=Quero%20divulgar%20meu%20negocio%20online"
                 target="_blank"
                 rel="noreferrer"
                 ripple="light"

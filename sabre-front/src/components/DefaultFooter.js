@@ -50,36 +50,14 @@ export default function DefaultFooter() {
                                     />
                                 </a>
                                 <a
-                                    href="https://www.dribbble.com/"
-                                    className="grid place-items-center bg-white text-pink-400 shadow-md font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none"
+                                    href="https://api.whatsapp.com/send?phone=54992041970&text=Quero%20divulgar%20meu%20negocio%20online"
+                                    className="grid place-items-center bg-white text-green-400 shadow-md font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
                                     <Icon
                                         family="font-awesome"
-                                        name="fab fa-dribbble"
-                                    />
-                                </a>
-                                <a
-                                    href="https://www.youtube.com/"
-                                    className="grid place-items-center bg-white text-red-600 shadow-md font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <Icon
-                                        family="font-awesome"
-                                        name="fab fa-youtube"
-                                    />
-                                </a>
-                                <a
-                                    href="https://github.com/"
-                                    className="grid place-items-center bg-white text-gray-900 shadow-md font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    <Icon
-                                        family="font-awesome"
-                                        name="fab fa-github"
+                                        name="fab fa-whatsapp"
                                     />
                                 </a>
                             </div>
